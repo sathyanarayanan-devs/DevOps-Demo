@@ -1,5 +1,9 @@
 Hello World.
 My Name is S. Sathyanarayanan.
+<<<<<<< HEAD
 Im a 2nd Year B.Sc Cybersecurity Student.
 This is a new file which is used to understand how git works.
 Now we will see how the reset of the commit with each flags works.
+=======
+Im a 2nd Year B.Sc Cybersecurity Student.
+>>>>>>> 315c9157327aa79041209d9b3d2801defd388d2e
