@@ -11,3 +11,5 @@ In this week, we are going to see how git revert works.
 And whats the difference between git revert and git reset.
 
 We completed on the working of the git reset command, now its time for revert command.
+
+Wrong statement: "The Sky is in Purple colour"
